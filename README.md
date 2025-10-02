@@ -90,19 +90,7 @@
  
 
  
-### 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiUsuarioGitHub&theme=react-dark)](https://github.com/MiUsuarioGitHub)
-
----
-
-### 📊 Most Used Languages
-
-<div align="center">
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=MiUsuarioGitHub&show_icons=true&locale=en&layout=compact&theme=radical)]()
-
-</div>
 
  
 
