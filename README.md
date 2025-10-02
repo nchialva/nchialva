@@ -8,14 +8,20 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20&%20Software%20Engineer;Full%20Stack%20%26%20Mobile%20Developer;Passionate%20about%20Building%20Innovative%20Solutions;Always%20Learning%20and%20Exploring&font=Fira%20Code&center=true&width=550&height=45">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
+
 
 ---
+
+- 👨‍💻 I hold a **Master in Full Stack & Mobile Development** and am passionate about creating innovative solutions for web, mobile, and AI-driven applications.  
+- 💬 Feel free to reach out to discuss **Mobile App Development, Web Development, or Machine Learning projects**.  
+- 🌱 I am continuously advancing my expertise in **AI, Machine Learning**, and exploring **modern frameworks and technologies**.  
+- 🚀 Dedicated to learning, experimenting, and sharing knowledge with the developer community.
+
 
 - 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
